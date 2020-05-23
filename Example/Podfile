@@ -1,0 +1,6 @@
+use_frameworks!
+target 'UIImageSymbols_Tests' do
+  pod 'UIImageSymbols', :path => '../'
+  
+  
+end
