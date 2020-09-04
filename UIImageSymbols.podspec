@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'UIImageSymbols'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = 'A SF Symbols static variables extension of UIImage.'
 
 # This description is used to generate tags and improve search results.
@@ -29,7 +29,7 @@ s.description      = s.summary * 2
   s.ios.deployment_target = '13.0'
 
   s.source_files = 'UIImageSymbols/Classes/**/*'
-  
+
   # s.resource_bundles = {
   #   'UIImageSymbols' => ['UIImageSymbols/Assets/*.png']
   # }
