@@ -30,6 +30,10 @@ let image: UIImage? = ._11CircleFill // UIImage(systemName: "11.circle.fill")
 
 Jianqiu Xiao, swordray@gmail.com
 
+## Sponsors
+
+* [BaiLu ShuYuan](https://bailushuyuan.org)
+
 ## License
 
 UIImageSymbols is available under the MIT license. See the LICENSE file for more info.

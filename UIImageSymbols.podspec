@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'UIImageSymbols'
-  s.version          = '0.6.0'
+  s.version          = '0.6.1'
   s.summary          = 'A SF Symbols static variables extension of UIImage.'
 
 # This description is used to generate tags and improve search results.
@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
 
 s.description      = s.summary * 2
 
-  s.homepage         = 'https://github.com/swordray/UIImageSymbols'
+  s.homepage         = 'https://bailushuyuan.org'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Jianqiu Xiao' => 'swordray@gmail.com' }
